@@ -1,5 +1,11 @@
 # calculadorJavascript
 calculadora creada en JavaScript
+
+
+
+
+
+
 const pantalla = document.querySelector(".pantalla");
 const botones = document.querySelector(".btn");
 
